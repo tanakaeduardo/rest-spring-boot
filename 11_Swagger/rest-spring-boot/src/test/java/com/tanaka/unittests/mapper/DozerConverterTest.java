@@ -10,7 +10,6 @@ import org.junit.jupiter.api.Test;
 import com.tanaka.data.vo.v1.PersonVO;
 import com.tanaka.mapper.ModelMapperImp;
 import com.tanaka.model.Person;
-
 import com.tanaka.unittests.mapper.mocks.MockPerson;
 
 public class DozerConverterTest {
